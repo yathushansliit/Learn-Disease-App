@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23487219743",
+    "firebase_url": "https://androidlearndisease.firebaseio.com",
+    "project_id": "androidlearndisease",
+    "storage_bucket": "androidlearndisease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23487219743:android:ee76b24070cdec39",
+        "android_client_info": {
+          "package_name": "com.example.learndiseaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23487219743-g9a58127fck73n3pb5alpr4t9ckid5v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learndiseaseapp",
+            "certificate_hash": "6c69feb87a782710c3d89b3cf76d2fdf11fe96dc"
+          }
+        },
+        {
+          "client_id": "23487219743-sf1hnni4e3sjimndjpir36c4e90m7rjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQJ8ycArToTixNSzXmPinSljXo6JGaZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23487219743-sf1hnni4e3sjimndjpir36c4e90m7rjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
